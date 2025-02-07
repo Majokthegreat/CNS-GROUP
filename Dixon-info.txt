@@ -6,7 +6,3 @@ code: if(dixon>18){
 else{
 	System.out.println("He is still a piken")
 }
-
-
-Name:Majok D.Majok
-id: 191849
